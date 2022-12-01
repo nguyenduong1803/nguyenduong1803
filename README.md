@@ -1,6 +1,7 @@
+
+<img src="https://camo.githubusercontent.com/9cf628f33ca3396972f578d26542518fa06aa936fb541c748ce7f5dffa09a580/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966" alt="">
 <h1 align="center">Hi 👋, I'm Nguyen Huu Duong</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
-<img src="https://camo.githubusercontent.com/9cf628f33ca3396972f578d26542518fa06aa936fb541c748ce7f5dffa09a580/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenduong1803&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenduong1803" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyenduong1803" alt="nguyenduong1803" /></a> </p>
