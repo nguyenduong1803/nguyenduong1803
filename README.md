@@ -2,13 +2,16 @@
 <img src="https://camo.githubusercontent.com/9cf628f33ca3396972f578d26542518fa06aa936fb541c748ce7f5dffa09a580/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966" alt="">
 <h1 align="center">Hi 👋, I'm Nguyen Huu Duong</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
-
+<img align="right" width="60%" src="https://media.tenor.com/6sjd441LIRIAAAAd/future.gif">
 - 🔭 I’m currently working on **React Js**
-
-- 📫 How to reach me **duonghd1803@gmail.com**
-<img src="https://toigingiuvedep.vn/wp-content/uploads/2021/02/hinh-anh-tuyet-roi-va-khu-rung-bang-tuyet-phu-trang.gif">
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
+- 📫 How to reach me **duonghd1803@gmail.com**
+<br>
+- 💬 Ask me about **Javascript, ReactJS**
+<br>
+- 👨‍💻 Business contact with me!!!
+ <br>
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
