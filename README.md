@@ -2,7 +2,9 @@
 <img src="https://camo.githubusercontent.com/9cf628f33ca3396972f578d26542518fa06aa936fb541c748ce7f5dffa09a580/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966" alt="">
 <h1 align="center">Hi 👋, I'm Nguyen Huu Duong</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
-<img align="right" width="60%" src="https://media.tenor.com/6sjd441LIRIAAAAd/future.gif">
+<br>
+<br>
+<img align="right" width="50%" src="https://media.tenor.com/6sjd441LIRIAAAAd/future.gif">
 - 🔭 I’m currently working on **React Js**
 <br>
 - 📫 How to reach me **duonghd1803@gmail.com**
@@ -10,6 +12,14 @@
 - 💬 Ask me about **Javascript, ReactJS**
 <br>
 - 👨‍💻 Business contact with me!!!
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
  <br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <!-- https://simpleicons.org/ -->
@@ -22,8 +32,6 @@
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
