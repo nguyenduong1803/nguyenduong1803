@@ -4,7 +4,8 @@
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 <br>
 <br>
-<img align="right" width="50%" src="https://media.tenor.com/6sjd441LIRIAAAAd/future.gif">
+<!-- https://media.tenor.com/6sjd441LIRIAAAAd/future.gif -->
+<img align="right" width="50%" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 - 🔭 I’m currently working on **React Js**
 <br>
 - 📫 How to reach me **duonghd1803@gmail.com**
