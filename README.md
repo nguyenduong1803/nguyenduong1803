@@ -1,5 +1,5 @@
 
-<img src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/8c5a6ae295d7b6e73adaa9ae68b3b8fd.gif" alt="">
+<img width="100%" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" alt="">
 <h1 align="center">Hi 👋, I'm Nguyen Huu Duong</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 <br>
